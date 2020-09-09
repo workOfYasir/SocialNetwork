@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "648054745409",
+    "firebase_url": "https://social-network-593c5.firebaseio.com",
+    "project_id": "social-network-593c5",
+    "storage_bucket": "social-network-593c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648054745409:android:bf05206f5a1e742f6099c0",
+        "android_client_info": {
+          "package_name": "com.hybird.socialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648054745409-p7c55e2bff2ch5jt4921o6b7a5c65sa7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hybird.socialnetwork",
+            "certificate_hash": "b75567b3a86e08defc2315652e56ce5fe452abea"
+          }
+        },
+        {
+          "client_id": "648054745409-eeh6m3909ah6qbm3rrp9j4i3fnuta31m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3RzI_vz-ABcoWocJvsBNkeF9_xUQM3ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648054745409-eeh6m3909ah6qbm3rrp9j4i3fnuta31m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

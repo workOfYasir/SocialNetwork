@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Social Network</string>
+    <string name="home">Home</string>
+    <string name="friends">Friends</string>
+    <string name="find_friends">Find Friends</string>
+    <string name="messages">Messages</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+    <string name="add_new_post">Add new Post</string>
+    <string name="profile">Profile</string>
+    <string name="username">Username</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_closed">Drawer Classed</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_need_an_account">Don\'t Have An Account? Need An Account!</string>
+</resources>
